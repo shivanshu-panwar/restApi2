@@ -3,7 +3,7 @@ const express = require('express'),
 
 const service = require('../services/employee.service')
 
-// http://localhost:3000/api/employees/
+// http://localhost:8080/api/employees/
 
 // it is a one way of accessing database
 // router.get('/', (req, res) => {
